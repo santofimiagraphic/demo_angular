@@ -1,0 +1,12 @@
+{
+  "name": "demo_angular",
+  "version": "0.0.1",
+  "description": "Demo de entorno de desarrollo AngularJS",
+  "dependencies": {
+    "angular": "~1.4.7",
+    "bootstrap": "~3.3.5",
+    "angular-route": "~1.4.7",
+    "angular-resource": "~1.4.7",
+    "font-awesome": "~4.4.0"
+  }
+}
